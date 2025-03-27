@@ -1,0 +1,12 @@
+<freelances>
+  <freelance>
+    <prenom>Alice</prenom>
+    <nom>Durand</nom>
+    <email>alice@example.com</email>
+  </freelance>
+  <freelance>
+    <prenom>Hugo</prenom>
+    <nom>Leroy</nom>
+    <email>hugo@example.com</email>
+  </freelance>
+</freelances>

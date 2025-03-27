@@ -1,0 +1,15 @@
+[
+    {
+      "prenom": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "prenom": "Bob",
+      "email": "bob@example.com"
+    },
+    {
+      "prenom": "Charlie",
+      "email": "charlie@example.com"
+    }
+  ]
+  
