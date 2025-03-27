@@ -1,0 +1,6 @@
+- email: alice@example.com
+  nom: Durand
+  prenom: Alice
+- email: hugo@example.com
+  nom: Leroy
+  prenom: Hugo
